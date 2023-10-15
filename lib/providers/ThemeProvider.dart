@@ -50,6 +50,7 @@ class MyThemes {
     scaffoldBackgroundColor: Colors.white,
     primaryColor: Colors.blueAccent,
     secondaryHeaderColor: Colors.black,
+
     iconTheme: const IconThemeData(color: Colors.white, opacity: 0.8),
 
     // colorScheme: const ColorScheme.light()
